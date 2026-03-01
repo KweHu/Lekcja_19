@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 40px;
+    background-color: #f4f6f8;
+    color: black;
+}
+
+main{
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    max-width: 800px;
+    margin: auto;
+}
+
+h1{
+    color: blue;
+}
+
+h2{
+    margin-top: 25px;
+}
+
+ul{
+    margin-left: 20px;
+}
